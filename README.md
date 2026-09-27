@@ -16,7 +16,7 @@
 ## 🛠️ Technical Stack & Expertise
 * **Data Analytics & BI:** SQL • Power BI (DAX) • Advanced Microsoft Excel
 * **Programming & Systems:** Python (Pandas, NumPy) 
-* **Modern Workflows:** Generative AI for Data Processing 
+* **Modern Workflows:** Generative AI for Data Processing
 
 ---
 
