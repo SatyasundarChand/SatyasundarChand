@@ -1,7 +1,7 @@
 # Hi, I'm Satyasundar Chand 👋
 
 ## 💼 Professional Job Objective
-  Graduate from OUTR Bhubaneswar actively pursuing Data Analyst, Business Analyst, and Business Intelligence roles. I specialize in utilizing Excel, Python, SQL, Power BI and Generative AI to clean complex datasets, author analytical calculations, and build interactive dashboards that translate raw data into clear business insights.
+  Graduate from OUTR Bhubaneswar actively pursuing Data Analyst, Business Analyst roles. I specialize in utilizing Excel, Python, SQL, Power BI and Generative AI to clean complex datasets, author analytical calculations, and build interactive dashboards that translate raw data into clear business insights.
 
 
 ---
