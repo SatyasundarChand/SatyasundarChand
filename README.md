@@ -7,7 +7,9 @@
 ---
 
 ## 🎓 Education
-* **B.Tech:** OUTR Bhubaneswar (Formerly CET Bhubaneswar)
+* **B.Tech:** OUTR, Bhubaneswar
+*  **XII:** D A V Public School, Balasore
+*  **X:** D A V Public School, Balasore
 
 ---
 
@@ -19,10 +21,13 @@
 ---
 
 ## 📂 Active Data Portfolio Projects
-* 📊 **[Power BI] ShopNest Store Performance Report:** [Click here to view repository](https://github.com/SatyasundarChand/Power-BI-Dashboard-project) — Analyzed \$13.59M in transactional e-commerce data to resolve regional delivery delays and revenue metrics using custom DAX configurations. Includes full dataset and dashboard screenshot preview.
-
+* 📊 **[Power BI] ShopNest Store Performance Report:** [Click here to view repository](https://github.com/SatyasundarChand/Power-BI-Dashboard-project) — Analyzed transactional data for a Portuguese e-commerce marketplace to solve delivery delays and regional performance issues.
+• Built an interactive Power BI dashboard tracking $13.59M in sales across finance, operations, and product metrics.
+• Authored DAX queries to isolate payment distributions, count delayed shipments, and track product review scores.
+• Key Result: Found SP state led sales ($5.2M); credit cards dominated payments (75.24%).
 
 ---
 
-## 🤝 Let's Connect!
-* 🌐 **LinkedIn Profile:** [://linkedin.com](www.linkedin.com/in/satyasundarchand)
+## 🤝 Let's Connect!* 
+ 🌐 **LinkedIn Profile:** [www.linkedin.com/in/satyasundarchand](https://linkedin.com)
+
