@@ -25,4 +25,4 @@
 ---
 
 ## 🤝 Let's Connect!
-* 🌐 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com/satyasundarchand)
+* 🌐 **LinkedIn Profile:** [://linkedin.com](www.linkedin.com/in/satyasundarchand)
